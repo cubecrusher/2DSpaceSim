@@ -1,2 +1,2 @@
 # 2DSpaceSim
-Canvas Samsung game. Latest commits available in "master" branch.
+Canvas-powered game. Latest commits available in "master" branch. Abandoned due to uselessness in favor of Trance Journey.
